@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 12/04/2024
 
 ## AIM:
 
@@ -54,9 +54,10 @@
 
 ## Output:
 
+![WhatsApp Image 2024-04-17 at 14 02 49](https://github.com/INFANTINA1401/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147313821/ff975153-2f38-4034-9207-2c4a2271e897)
 
-### Name:
-### Register Number: 
+### Name:INFANTINA MARIA L
+### Register Number:212223100013 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
